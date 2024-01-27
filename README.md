@@ -11,7 +11,8 @@ The main goal of this repository is to enhance my understanding of JavaScript th
 The repository is organized into different sections, each containing practice questions related to specific JavaScript concepts. Feel free to explore the folders and attempt the challenges at your own pace.
 
 Ques1: Find the largest number from the array.
-Answer: function findMaxNumber(arr) {
+Answer:
+function findMaxNumber(arr) {
     if (arr.length === 0) {
       return undefined;
     }
@@ -26,7 +27,6 @@ Answer: function findMaxNumber(arr) {
   
     return max;
 }
-
 const numbers = [5, 3, 9, 2, 7, 1];
 const result = findMaxNumber(numbers);
 console.log("The maximum number is:", result);
