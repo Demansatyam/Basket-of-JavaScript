@@ -9,3 +9,15 @@ The main goal of this repository is to enhance my understanding of JavaScript th
 ## Contents
 
 The repository is organized into different sections, each containing practice questions related to specific JavaScript concepts. Feel free to explore the folders and attempt the challenges at your own pace.
+
+
+## Question 1: Find the Maximum Number from the Array
+
+Problem Statement:
+
+Given an array of numbers, write a JavaScript function to find and return the maximum number.
+
+### Answer 1:
+
+For the solution to this problem, please refer to the `maximumNumber.js` file in this repository.
+The maximum number is: 9
